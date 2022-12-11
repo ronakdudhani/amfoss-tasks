@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afRpWrZj9Z2XhlvbhkKYBlHBqCfBkr5zwHsllyhq6MW2NzbvDMNrprS3XSoCH2umexW1a3P8S522a9OF4SuzcA==",
+  "success": true,
+  "projectFilePath": "/home/ronak/Desktop/amfoss-tasks/task-05/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/ronak/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
