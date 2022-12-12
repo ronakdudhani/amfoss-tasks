@@ -3,6 +3,10 @@ This task was a lot of fun to do as I was making a working telegram bot. I had w
 
 Here is a shot video of working of Tele Bot:
 
-<img src="telebot.gif" width="600" />
+
+
+https://user-images.githubusercontent.com/98010877/207153401-ad65d1b0-d5c6-4b79-8404-e80416c9aa7e.mp4
+
+
 
 
