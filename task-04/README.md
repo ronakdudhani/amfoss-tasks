@@ -3,5 +3,6 @@ This task was a lot of fun to do as I was making a working telegram bot. I had w
 
 Here is a shot video of working of Tele Bot:
 
-![](telebot.gif)
+<img src="telebot.gif" width="300" />
+
 
