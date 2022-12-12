@@ -3,6 +3,6 @@ This task was a lot of fun to do as I was making a working telegram bot. I had w
 
 Here is a shot video of working of Tele Bot:
 
-<img src="telebot.gif" width="300" />
+<img src="telebot.gif" width="600" />
 
 
