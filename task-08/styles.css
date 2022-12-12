@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  background-color: #9ED5C5;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: "Sofia", sans-serif;
+  color: #112B3C;
+  text-shadow: 2px 2px grey;
+
+}
+
+.w{
+  text-align: center;
+  background-color: #191919;
+
+}
+
+.a {
+  text-align: center;
+background-color: #041b31;
+
+
+
+
+}
+
+.s {
+  text-align: center;
+  background-color: #082d3e;
+
+
+}
+
+.d {
+  text-align: center;
+background-color: #13343b;
+
+
+
+
+}
+
+.j {
+  text-align: center;
+  background-color: #133f54;
+
+
+
+
+}
+
+.k {
+  text-align: center;
+background-color: #224e6c;
+
+
+
+}
+
+.l {
+  text-align: center;
+  background-color: #296e8a;
+
+
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow:6px 6px white;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 7px solid black;
+  font-family: "Audiowide", sans-serif;
+  font-size: 5rem;
+  line-height: 1.8;
+  font-weight: 900;
+  color: white;
+  text-shadow: 3px 0 gray;
+  border-radius: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  box-shadow: 5px 5px grey;
+  
+}
