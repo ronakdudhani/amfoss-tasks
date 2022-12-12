@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ronak/tasks/task-04"
+set -gx VIRTUAL_ENV "/home/ronak/Desktop/amfoss-tasks/task-04"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -20,6 +20,12 @@ def greet(message):
     botRunning = True
     bot.reply_to(
         message, 'Hello there! I am a bot that will show movie information for you and export it in a CSV file.\n\n')
+
+    with open('movies.csv','w') as csvfile:
+        fieldnames = ['Title', 'Year', 'imdbRating', 'Released']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        # Write the header row
+        writer.writeheader()
     
 @bot.message_handler(commands=['stop', 'bye'])
 def goodbye(message):
@@ -61,10 +67,11 @@ def getMovie(message):
         
 
     # TODO: 2.1 Create a CSV file and dump the movie information in it
-    with open('movies.csv', 'w') as csvfile:
+
+
+    with open('movies.csv', 'a') as csvfile:
         fieldnames = ['Title', 'Year', 'imdbRating', 'Released']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
         writer.writerow({'Title': data['Title'], 'Year': data['Year'], 'imdbRating': data['imdbRating'], 'Released': data['Released']})
     
 
