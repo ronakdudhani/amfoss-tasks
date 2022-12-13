@@ -2,7 +2,10 @@
 This was one of the most creative task as we needed to create a mobile app interface with login, register and information screen. I enjoyed this task alot and learned few things about UI/UX designing.
 
 Here are the pages:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FElKtwabnc71PY8QOMXmZfG%2FFigma-Mobile-design%3Fnode-id%3D0%253A1%26t%3DIrruYKNqM1UURAHG-1" allowfullscreen></iframe>
+
+https://www.figma.com/file/ElKtwabnc71PY8QOMXmZfG/Figma-Mobile-design?node-id=0%3A1&t=IrruYKNqM1UURAHG-1
+
+
 The prototype of mobile app is given below:
 
-<iframe  style="border: 1px solid rgba(0, 0, 0, 0.1);"  width="800"  height="450"  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FElKtwabnc71PY8QOMXmZfG%2FFigma-Mobile-design%3Fnode-id%3D1%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2"  allowfullscreen></iframe>
+https://www.figma.com/proto/ElKtwabnc71PY8QOMXmZfG/Figma-Mobile-design?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
